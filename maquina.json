@@ -1,0 +1,22 @@
+[
+    {
+        "id":"M01",
+        "nombre":"Maquina 1"
+    },
+    {
+        "id":"M02",
+        "nombre":"Maquina 2"
+    },
+    {
+        "id":"M03",
+        "nombre":"Maquina 3"
+    },
+    {
+        "id":"M04",
+        "nombre":"Maquina 4"
+    },
+    {
+        "id":"M05",
+        "nombre":"Maquina 5"
+    }
+]   

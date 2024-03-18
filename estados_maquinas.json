@@ -1,0 +1,41 @@
+[
+    {
+        "estado":"En operacion",
+        "rotor":"RotorA",
+        "temperatura":"30°C",
+        "temperatura_s1":"25°C",
+        "temperatura_s2":"28°C",
+        "temperatura_promedio":"27.7°C",
+        "fecha":"2024-03-21T12:00:00Z",
+        "maquina":{
+            "idmaquina":"65f73a6ed0a3cfdff92da4af",
+            "id":"M01"
+        }
+    },   
+    {
+        "estado":"Fuera de servicio",
+        "rotor":"RotorB",
+        "temperatura":"35°C",
+        "temperatura_s1":"30°C",
+        "temperatura_s2":"32°C",
+        "temperatura_promedio":"32.3°C",
+        "fecha":"2024-03-17T12:00:00Z",
+        "maquina":{
+            "idmaquina":"65f73a6ed0a3cfdff92da4b0",
+            "id":"M02"
+        }
+    },
+    {
+        "estado":"En mantenimineto",
+        "rotor":"Rotorc",
+        "temperatura":"28°C",
+        "temperatura_s1":"26°C",
+        "temperatura_s2":"27°C",
+        "temperatura_promedio":"27.0°C",
+        "fecha":"2024-03-29T12:00:00Z",
+        "maquina":{
+            "idmaquina":"65f73a6ed0a3cfdff92da4b1",
+            "id":"M03"
+        }
+    }
+]

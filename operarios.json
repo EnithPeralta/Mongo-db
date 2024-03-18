@@ -1,0 +1,25 @@
+[
+    {
+        "cedula":"1114620379",
+        "nombreCompleto":"Marta Lopez",
+        "telefono":3174733789,
+        "direccion":"Santa Fe Bajo",
+        "email":"martalopez12@gmail.com"
+    },
+    {
+        
+        "cedula":"1065442042",
+        "nombreCompleto":"Giovana Bernate",
+        "telefono":3183432668,
+        "direccion":"La Paz",
+        "email":"giovanabernate02@gmail.com"
+    },
+    {
+        
+        "cedula":"10596203720",
+        "nombreCompleto":"Juan Cervante",
+        "telefono":3166684660,
+        "direccion":"Lomas de granada",
+        "email":"juancervante16@gmail.com"
+    }
+]

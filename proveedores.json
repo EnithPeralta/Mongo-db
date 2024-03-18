@@ -1,0 +1,25 @@
+[
+    {
+        "cedula":"1112022062",
+        "nombreCompleto":"Wilson Ibarra",
+        "telefono":3220759669,
+        "direccion":"Los Naranjos",
+        "email":"ibarrawilson@gmail.com"
+    },
+    {
+        
+        "cedula":"2519649078",
+        "nombreCompleto":"Lucia Martinez",
+        "telefono":3169584721,
+        "direccion":"La Esmeralda",
+        "email":"martinezlucia34@gmail.com"
+    },
+    {
+        
+        "cedula":"1004759623",
+        "nombreCompleto":"Juan Nieves",
+        "telefono":3236203596,
+        "direccion":"San Eduardo",
+        "email":"nievesjuan10@gmail.com"
+    }
+]

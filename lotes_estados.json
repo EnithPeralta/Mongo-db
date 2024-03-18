@@ -1,0 +1,35 @@
+[
+    {
+        "lote_cafe":{
+            "idLote_cafe":"65f73f31d0a3cfdff92da4c9",
+            "peso":"100kg"
+        },
+        "estado_maquina":{
+            "idestado_maquina":"65f8c7b22f854463e52da20a",
+            "estado":"En operacion",
+            "rotor":"RotorA"
+        }
+    },
+    {
+        "lote_cafe":{
+            "idLote_cafe":"65f73f31d0a3cfdff92da4ca",
+            "peso":"80kg"
+        },
+        "estado_maquina":{
+            "idestado_maquina":"65f8c7b22f854463e52da20b",
+            "estado":"Fuera de servicio",
+            "rotor":"RotorB"
+        }
+    },
+    {
+        "lote_cafe":{
+            "idLote_cafe":"65f73f31d0a3cfdff92da4cb",
+            "peso":"200kg"
+        },
+        "estado_maquina":{
+            "idestado_maquina":"65f8c7b22f854463e52da20c",
+            "estado":"En mantenimineto",
+            "rotor":"RotorC"
+        }
+    }
+]
