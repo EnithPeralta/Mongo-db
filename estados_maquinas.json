@@ -8,7 +8,7 @@
         "temperatura_promedio":"27.7°C",
         "fecha":"2024-03-21T12:00:00Z",
         "maquina":{
-            "idmaquina":"65f73a6ed0a3cfdff92da4af",
+            "idmaquina":"6601b57349e23d51696b2fff",
             "id":"M01"
         }
     },   
@@ -21,7 +21,7 @@
         "temperatura_promedio":"32.3°C",
         "fecha":"2024-03-17T12:00:00Z",
         "maquina":{
-            "idmaquina":"65f73a6ed0a3cfdff92da4b0",
+            "idmaquina":"6601b57349e23d51696b3000",
             "id":"M02"
         }
     },
@@ -34,7 +34,7 @@
         "temperatura_promedio":"27.0°C",
         "fecha":"2024-03-29T12:00:00Z",
         "maquina":{
-            "idmaquina":"65f73a6ed0a3cfdff92da4b1",
+            "idmaquina":"6601b57349e23d51696b3001",
             "id":"M03"
         }
     }

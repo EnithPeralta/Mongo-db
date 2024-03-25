@@ -2,48 +2,48 @@
     {
         "peso":"100kg",
         "proveedor":{
-            "idProvedor":"65f734efd0a3cfdff92da490",
+            "idProvedor":"6601b52049e23d51696b2ffb",
             "cedula":1112022062,
             "nombreCompleto":"Wilson Ibarra"
         },
         "tipo_proceso": {
-            "idProceso":"65f73804d0a3cfdff92da4a1",
+            "idProceso":"6601b59949e23d51696b3005",
             "nombre":"Proceso de cultivo y recoleccion del cafe"
         },
         "variedad_cafe":{
-            "idVariedad":"65f738cdd0a3cfdff92da4a7",
+            "idVariedad":"6601b5ce49e23d51696b300b",
             "nombre":"Cafe Castillo"
         }
     },
     {
         "peso":"80kg",
         "proveedor":{
-            "idProvedor":"65f734efd0a3cfdff92da491",
+            "idProvedor":"6601b52049e23d51696b2ffc",
             "cedula":2519649078,
             "nombreCompleto":"Lucia Martinez"
         },
         "tipo_proceso": {
-            "idProceso":"65f73804d0a3cfdff92da4a2",
+            "idProceso":"6601b59949e23d51696b3006",
             "nombre":"Proceso de trueste del cafe"
         },
         "variedad_cafe":{
-            "idVariedad":"65f738cdd0a3cfdff92da4a6",
+            "idVariedad":"6601b5ce49e23d51696b300a",
             "nombre":"Cafe Excelso"
         }
     },
     {
         "peso":"200kg",
         "proveedor":{
-            "idProvedor":"65f734efd0a3cfdff92da492",
+            "idProvedor":"6601b52049e23d51696b2ffd",
             "cedula":1004759623,
             "nombreCompleto":"Juan Nieves"
         },
         "tipo_proceso": {
-            "idProceso":"65f73804d0a3cfdff92da4a3",
+            "idProceso":"6601b59949e23d51696b3007",
             "nombre":"Proceso de preparacion y servicio del cafe"
         },
         "variedad_cafe":{
-            "idVariedad":"65f738cdd0a3cfdff92da4a5",
+            "idVariedad":"6601b5ce49e23d51696b3009",
             "nombre":"Cafe Supremo"
         }
     }

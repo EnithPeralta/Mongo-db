@@ -2,11 +2,11 @@
     {
         "fecha":"2024-03-17T12:00:00Z",
         "lote_cafe":{
-            "idLote_cafe":"65f73f31d0a3cfdff92da4c9",
+            "idLote_cafe":"6601b7f049e23d51696b3017",
             "peso":"100kg"
         },
         "operarios":{
-            "idoperarios":"65f73313d0a3cfdff92da487",
+            "idoperarios":"6601b4d249e23d51696b2ff5",
             "cedula":"1114620379",
             "nombreCompleto":"Marta Lopez"
         }
@@ -14,11 +14,11 @@
     {
         "fecha":"2024-03-21T12:00:00Z",
         "lote_cafe":{
-            "idLote_cafe":"65f73f31d0a3cfdff92da4ca",
+            "idLote_cafe":"6601b4d249e23d51696b2ff5",
             "peso":"80kg"
         },
         "operarios":{
-            "idoperarios":"65f73313d0a3cfdff92da488",
+            "idoperarios":"6601b4d249e23d51696b2ff6",
             "cedula":"1065442042",
             "nombreCompleto":"Giovana Bernate"
         }
@@ -26,11 +26,11 @@
     {
         "fecha":"2024-03-29T12:00:00Z",
         "lote_cafe":{
-            "idLote_cafe":"65f73f31d0a3cfdff92da4cb",
+            "idLote_cafe":"6601b7f049e23d51696b3019",
             "peso":"200kg"
         },
         "operarios":{
-            "idoperarios":"65f73313d0a3cfdff92da489",
+            "idoperarios":"6601b4d249e23d51696b2ff7",
             "cedula":"10596203720",
             "nombreCompleto":"Juan Cervante"
         }
